@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,range_parser",
+    "logging_enabled": "false",
+    "name": "range_parserSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "range_parserSmokeTest.js"
+}
